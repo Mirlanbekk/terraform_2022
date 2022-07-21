@@ -1,4 +1,0 @@
-ami = "write ami id"
-
-
-ec2_name = "mir"
