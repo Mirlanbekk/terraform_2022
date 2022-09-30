@@ -1,0 +1,4 @@
+bucket = "mir-test123456"
+key = "terraform.tfstate"
+region = "us-east-1"
+encrypt = true
